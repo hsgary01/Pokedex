@@ -36,8 +36,6 @@
         android:id="@+id/imageView2"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/funbuttons"
-        android:AlignBottom="true"
-        android:layout_weight="0.37"
         android:scaleType="fitXY"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
